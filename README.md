@@ -1,6 +1,6 @@
-# api-type
-[![npm version](https://badge.fury.io/js/api-type.svg)](https://badge.fury.io/js/api-type)
-[![npm download](https://badgen.net/npm/dt/api-type)](https://badgen.net/npm/dt/api-type)
+# api-types
+[![npm version](https://badge.fury.io/js/api-type.svg)](https://badge.fury.io/js/api-types)
+[![npm download](https://badgen.net/npm/dt/api-type)](https://badgen.net/npm/dt/api-types)
 
 #### 介绍
 定义应用 数据模型及接口，构建OpenAPI或Graphql接口,支持测试、Mock。
