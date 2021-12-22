@@ -1,10 +1,11 @@
 {
-  "name": "api-type",
+  "name": "api-typec",
   "version": "0.0.1",
   "description": "API 数据结构定义",
   "author": "xiaochu<newi@qq.com>",
   "private": false,
   "license": "",
+  "main": "./src",
   "scripts": {
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
     "test": "jest",
